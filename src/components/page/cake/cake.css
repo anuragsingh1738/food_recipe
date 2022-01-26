@@ -1,0 +1,22 @@
+.cakes {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+
+  
+  .cakesBottom {
+    display: flex;
+    flex-direction: column;
+    height: 55%;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .cakesBottom p {
+    width: 1200px;
+  }
+  
+  
